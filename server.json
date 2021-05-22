@@ -1,0 +1,104 @@
+{
+  "personagens": [
+    {
+      "name": "Wanda Maximoff",      
+      "description": "Wanda Maximoff foi sequestrada da Sérvia e trazida para a Montanha Wundagore, base do Alto Evolucionário. Durante anos, ela e seu irmão gêmeo, Pietro, acreditavam que eram filhos de um casal de ciganos.",
+      "score": 4,
+      "thumbnail": "https://img.wattpad.com/7625dc3704fdde9425f7c9538e3dab552b904d68/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7a6b563077576d59546e395862773d3d2d3837383334383833342e313630633631353561353862663833613335343236363234373036362e6a7067",
+      "participation": ["Vingadores - Era de Ultron", "Capitão América - Guerra Civil", "Vingadores - Guerra Infinita", "Vingadores - Ultimato", "WandaVision"]
+    },
+    {
+      "name": "Homem-Aranha",      
+      "description": "Após ser mordido por uma aranha radioativa, Peter Parker se torna o amigo da vizinhança, o Homem-Aranha.",
+      "score": 5,
+      "thumbnail": "https://i.pinimg.com/736x/33/56/ed/3356ed7611cbe05fa892f735d84312ce.jpg",
+      "participation": ["Capitão América - Guerra Civil", "Homem aranha de volta ao lar", "Vingadores - Guerra infinita", "Vingadores - Ultimato", "Homem aranha longe de casa"]
+    },
+    {
+      "name": "Thanos",      
+      "description": "A lua Titã era governada por Mentor (A'Lars), quando então reinava paz e tecnologia. Mentor tinha dois filhos: Eros e Thanos. Ao contrário do irmão, Thanos, era bem mais poderoso e almejava ainda mais.",
+      "score": 5,
+      "thumbnail": "https://static.wikia.nocookie.net/smallville-fanmade/images/e/ed/Screenshot_20200311-131146.jpg/revision/latest?cb=20200311171243",
+      "participation": ["Vingadores", "Guardiões da Galáxia - vol. I", "Vingadores - Guerra Infinita", "Vingadores - Ultimato"]
+    },
+    {
+      "name": "Hulk",      
+      "description": "Na história original dos quadrinhos, o Hulk é um selvagem e poderoso alter ego do Dr. Robert Bruce Banner, um cientista que foi atingido por raios gama enquanto salvava um adolescente durante o teste militar.",
+      "score": 4,
+      "thumbnail": "https://i.pinimg.com/originals/ee/1a/b8/ee1ab85e6e9924a567290c8f7b8dfb1c.jpg",
+      "participation": ["Vingadores", "Vingadores - Era de Ultron", "Thor - Ragnarok", "Vingadores - Guerra Infinita", "Vingadores - Ultimato"]
+    }
+    
+  ],
+  "filmes": [
+    {
+      "name": "Homem de Ferro",
+      "description": "Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor, ao ser sequestrado, ele é obrigado a construir uma arma devastadora, mas ao invés disso, cria uma armadura capaz de mudar a história.",
+      "score": 3,
+      "thumbnail": "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.elo7.com.br%2Fposter-cartaz-iron-man-homem-de-ferro%2Fdp%2FBD4F29&psig=AOvVaw183GmqQJB-kNLoHetEb2IT&ust=1621780110509000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODIpu-_3fACFQAAAAAdAAAAABAD",
+      "available": ["Disney plus"],
+      "release": 1,
+      "chronology": 4
+    },
+    {
+      "name": "Homem de Ferro 2",
+      "description": "O mundo já sabe que o inventor bilionário Tony Stark (Robert Downey Jr.) é o super-herói blindado Homem de Ferro. Sofrendo pressão do governo, da mídia e do público para compartilhar sua tecnologia com as forças armadas.",
+      "score": 3,
+      "thumbnail": "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F610941505680153081%2F&psig=AOvVaw3X7EGJUuwjkvhono8rJkYB&ust=1621780135125000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC74vq_3fACFQAAAAAdAAAAABAD",
+      "available": ["Disney plus"],
+      "release": 3,
+      "chronology": 5
+    },
+    {
+      "name": "Thor",
+      "description": "Quando é banido do reino de Asgard e exilado na Terra, o arrogante guerreiro Thor (Chris Hemsworth) é obrigado a lutar para reaver seus poderes perdidos.",
+      "score": 4,
+      "thumbnail": "https://i.hipertextual.com/2017/03/30/0cf9f771cb7eaa0951fea1a2ba30fbba.md.jpg",
+      "available": ["Disney plus"],
+      "release": 1,
+      "chronology": 6
+    },
+    {
+      "name": "Capitão América",
+      "description": "Em Capitão América: O Primeiro Vingador, conhecemos a história de Steve Rogers (Chris Evans) e como ele se tornou o melhor soldado do mundo.",
+      "score": 5,
+      "thumbnail": "https://pm1.narvii.com/6920/62db073871332608efb7da5459d06f2d07253485r1-1080-1617v2_hq.jpg",
+      "available": ["Disney plus"],
+      "release": 1,
+      "chronology": 1
+    },
+    {
+      "name": "Capitã Marvel",
+      "description": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls.",
+      "score": 4,
+      "thumbnail": "https://sun9-40.userapi.com/impf/c858336/v858336183/44f69/TMdbBiflk8A.jpg?size=539x811&quality=96&sign=4c9e6ec1eed302d415d28f2136076153&c_uniq_tag=GYfv3dFZY_PUhzJxce_9AYurW4o__J0CijH4EgNKrw0&type=album",
+      "available": ["Disney plus"],
+      "release": 21,
+      "chronology": 2
+    }
+
+  ],
+  "HQs": [
+    {
+      "name": "Thor: Vikings",
+      "description": "Garth Ennis e sua violência atacam novamente na HQ que leva a violência das histórias de Thor ao limite! Na minissérie de 2003 vemos vikings de um passado distante voltando a vida.",
+      "score": 5,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91Pl1w1pP3L.jpg",
+      "available": ["Amazon", "Americanas"]
+    },
+    {
+      "name": "Surfista Prateado: Parábola",
+      "description": "O único oponente do Devorador de Mundos é o herói que ele aprisionou na Terra: o Surfista Prateado, Galactus jurou não consumir o planeta, mas e se, em vez disso, ele transformar a civilização em seus adoradores?",
+      "score": 5,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/A1OtioU9YvL.jpg",
+      "available": ["Amazon", "Americanas"]
+    },
+    {
+      "name": "Wolverine: Origens",
+      "description": "Origem é uma minissérie em quadrinhos publicada pela Marvel Comics em seis edições, entre 2001 e 2002. A história conta a revelação do passado do personagem Wolverine.",
+      "score": 5,
+      "thumbnail": "https://skoob.s3.amazonaws.com/livros/30449/WOLVERINE_149177382030449SK1491773821B.jpg",
+      "available": ["Amazon", "Americanas"]
+    }
+  ]
+}
