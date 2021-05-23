@@ -1,9 +1,11 @@
+import Routes from './routes';
 import { GlobalStyle } from './styles/global';
+import './fonts/font.css'
 
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <Routes />
       <GlobalStyle />
     </>
   );
