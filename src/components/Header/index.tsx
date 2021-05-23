@@ -12,15 +12,15 @@ export function Header() {
         <NavHeader>
         <ul>
           <li>
-            <a href="/">Personagens</a>
+            <a href="/personagens">Personagens</a>
           </li>
 
           <li>
-            <a href="/">Filmes</a>
+            <a href="/filmes">Filmes</a>
           </li>
 
           <li>
-            <a href="/">HQs</a>
+            <a href="/hqs">HQs</a>
           </li>
 
           <li>

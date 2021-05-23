@@ -37,6 +37,8 @@ export const CardInfo = styled.article `
     font-family: "Axiforma Bold";
     font-size: 20px;
     color: #fff;
+    text-align: center;
+
   }
 
   p {
