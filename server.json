@@ -50,22 +50,22 @@
       "chronology": 5
     },
     {
-      "name": "Thor",
-      "description": "Quando é banido do reino de Asgard e exilado na Terra, o arrogante guerreiro Thor (Chris Hemsworth) é obrigado a lutar para reaver seus poderes perdidos.",
-      "score": 4,
-      "thumbnail": "https://i.hipertextual.com/2017/03/30/0cf9f771cb7eaa0951fea1a2ba30fbba.md.jpg",
-      "available": ["Disney plus"],
-      "release": 1,
-      "chronology": 6
-    },
-    {
       "name": "Capitão América",
       "description": "Em Capitão América: O Primeiro Vingador, conhecemos a história de Steve Rogers (Chris Evans) e como ele se tornou o melhor soldado do mundo.",
       "score": 5,
       "thumbnail": "https://pm1.narvii.com/6920/62db073871332608efb7da5459d06f2d07253485r1-1080-1617v2_hq.jpg",
       "available": ["Disney plus"],
-      "release": 1,
+      "release": 5,
       "chronology": 1
+    },
+    {
+      "name": "Thor",
+      "description": "Quando é banido do reino de Asgard e exilado na Terra, o arrogante guerreiro Thor (Chris Hemsworth) é obrigado a lutar para reaver seus poderes perdidos.",
+      "score": 4,
+      "thumbnail": "https://i.hipertextual.com/2017/03/30/0cf9f771cb7eaa0951fea1a2ba30fbba.md.jpg",
+      "available": ["Disney plus"],
+      "release": 4,
+      "chronology": 6
     },
     {
       "name": "Capitã Marvel",
