@@ -14,7 +14,7 @@ export const CardContainer = styled.div `
 `
 
 export const CardInfo = styled.article `
-  background: linear-gradient(180deg, rgba(255,0,0,1) 0%, rgba(255,255,255,0) 100%);
+  background: transparent linear-gradient(180deg, var(--red) 0%, #800000A8 100%) 0% 0% no-repeat padding-box;
   border-radius: 30px;
   position: absolute;
   bottom:0;
